@@ -1,5 +1,4 @@
 # DUEDARE_multiple_participants
-Code to accompany paper on PM inferences with biometrics on multiple participants
 
 Code to accompany (unpublished) paper: Gauging Size Resolved Ambient Particulate Matter Concentration Solely Using Biometric Observations:  A Machine Learning and Causal Approach
 
