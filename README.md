@@ -27,7 +27,7 @@ ___Bibtex___:
   author       = {Fernando, B. A. and Talebi, S. and Wijeratne, L. O. H. and Waczak, J. and Sooriyaarachchi, V. and Lary, D. and Sadler, J. and Lary, T. and Lary, M. and Aker, A.},
   title        = {DUEDARE_multiple_participants},
   year         = {2023},
-  howpublished = {[Data set](https://github.com/mi3nts/DUEDARE_multiple_participants)},
+  howpublished = {https://github.com/mi3nts/DUEDARE_multiple_participants},
 }
 ```
 ---
